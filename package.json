@@ -1,0 +1,15 @@
+{
+  "name": "p2p-chat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "duplex-json-stream": "^1.0.1",
+    "fully-connected-topology": "^1.1.1",
+    "hash-to-port": "^1.1.0",
+    "lookup-multicast-dns": "^1.0.3",
+    "register-multicast-dns": "^1.1.0",
+    "simple-peer": "^9.5.0",
+    "stream-set": "^1.1.0"
+  }
+}
